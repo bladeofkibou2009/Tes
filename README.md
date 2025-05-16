@@ -1,8 +1,8 @@
 web pertama gw yang bisa di akses😆
-<!DOCTYPE html>
+
 <html>
 <head>
-    <title>hai</title>
+    
 </head>
 <body style="background-image: url('https://files.catbox.moe/m0uckf.jpg'); background-size: cover; color: lime;">
     <h1>makasih udah kelik ling nya 😆 </h1>
