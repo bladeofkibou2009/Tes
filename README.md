@@ -1,13 +1,13 @@
-web pertama gw yang bisa di akses😆
+halo cuy gw Gerald anggiat Stevanus 
 
 <html>
 <head>
     
 </head>
 <body style="background-image: url('https://files.catbox.moe/m0uckf.jpg'); background-size: cover; color: lime;">
-    <h1>makasih udah kelik ling nya.😆 </h1>
+    <h1>makasih dah mampir di Blade shop  </h1>
     <ul>
-        <li><a href="https://www.google.com" style="color: cyan;">Google</a></li>
+        <li><a href="https://wa.me/6285180717373?text=panel" style="color: cyan;">whatsapp</a></li>
         <li><a href="https://github.com/dashboard" style="color: cyan;">akun github😆</a></li>
         <li>wkwkwk</li>
         <li>gabut cuyy </li>
