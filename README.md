@@ -6,7 +6,7 @@
     <h1> ini web pertama gw cuy 😆 </h1>
     <ul>
         <li><a href="https://wa.me/6285180717373?text=Blade of kibou" style="color: cyan;">whatsapp</a></li>
-        <li><a href="https://github.com/dashboard" style="color: cyan;">akun github😆</a></li>
+        <li><a href="https://github.com/bladeofkibou2009" style="color: cyan;">akun github😆</a></li>
         <li>wkwkwk</li>
         <li>gabut cuyy </li>
     </ul>
